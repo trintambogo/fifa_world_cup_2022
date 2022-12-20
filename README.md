@@ -38,7 +38,7 @@ We were under pressure to deliver the best since the duration given was quite sh
 [LINK TO CODE](https://github.com/trintambogo/portfolio/blob/main/Final%20Insuarance%20Claim%20(1).ipynb)
 
 # PROJECT 3: HR ANALYTICS
-![](https://github.com/trintambogo/portfolio/blob/main/promotion.jpg) 
+![](https://github.com/trintambogo/portfolio/blob/main/images/promotion.jpg) 
 ## OVERVIEW
 A large MNC company have 9 broad verticals across the organisation. One of the problem they are currently is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
 
