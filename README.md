@@ -10,4 +10,4 @@ I used power Bi to clean and visualize the data.
 
 # CHALLENGES 
 I am not quite a football fan so it was difficult to understand some of the terms used.However, i sought help and was made to understand some of the difficult terms.
-[fifa](https://github.com/trintambogo/fifa_world_cup_2022/blob/main/fifa2.pdf)
+[HERE IS THE LINK TO MY DASHBOARD](https://github.com/trintambogo/fifa_world_cup_2022/blob/main/fifa2.pdf)
