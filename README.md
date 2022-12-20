@@ -54,7 +54,7 @@ I got the data from analytics vidhya website
 * Visualized data using matplotlib and seaborn. 
 * Developed decision trees model to identify the employees likely to get promoted. 
 
-
+[LINK TO CODE](https://github.com/trintambogo/portfolio/blob/main/HR%20Analytics%20(2).ipynb)
 
 
 
