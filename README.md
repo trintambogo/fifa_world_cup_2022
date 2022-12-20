@@ -6,12 +6,12 @@ Fifa world cup has just come to an end. I dared to challenge myself and develop 
 I got the data from kaggle website.
 
 ## TOOLS USED
-I used power Bi to clean and visualize the data.
+* Cleaned data and visualized using Power Bi
 
 ## CHALLENGES 
 I am not quite a football fan so it was difficult to understand some of the terms used.However, i sought help and was made to understand some of the difficult terms.
 
-[HERE IS THE LINK TO MY DASHBOARD](https://github.com/trintambogo/fifa_world_cup_2022/blob/main/fifa2.pdf)
+[LINK TO MY DASHBOARD](https://github.com/trintambogo/fifa_world_cup_2022/blob/main/fifa2.pdf)
 
 # PROJECT 2: AUTO INSURANCE CLAIM
 
@@ -22,17 +22,39 @@ Autoinland is an insuarance company in west africa. Their goal is to better impr
 This was a data hackathon hosted by zindi africa. We got the data from the zindi africa website.
 
 ## SKILLS USED
-Cleaning of data was done using pandas in python.
-Visualization was done using Power Bi.
-Used random forest algorthim to come up with the machine learning model.
+* Cleaned the data using pandas in python.
+* Visualized data using Power Bi.
+* Developed random forest algorthim to identify clients likely to make a claim..
 
 ## ACHIEVEMENTS
-Ranked 5th position 
+Ranked 5th position out of 54
 
 ## CHALLENGES.
 We were under pressure to deliver the best since the duration given was quite short.
 
 [LINK TO CODE](https://github.com/trintambogo/portfolio/blob/main/Final%20Insuarance%20Claim%20(1).ipynb)
+
+# PROJECT 3: HR ANALYTICS
+
+## OVERVIEW
+A large MNC company have 9 broad verticals across the organisation. One of the problem they are currently is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
+
+1.They first identify a set of employees based on recommendations/ past performance
+2.Selected employees go through the separate training and evaluation program for each vertical. These programs are based on the required skill of each vertical
+3.At the end of the program, based on various factors such as training performance, KPI completion (only employees with KPIs completed greater than 80% are considered) etc., employee gets promotion
+For above mentioned process, the final promotions are only announced after the evaluation and this leads to delay in transition to their new roles. Hence, this company needs help in identifying the eligible candidates at a particular checkpoint so that they can expedite the entire promotion cycle.
+
+To solve this problem i will use predictive analytics in identifying the employees most likely to get promoted.
+
+## SOURCE OF DATA
+I got the data from analytics vidhya website
+
+## SKILLS USED
+* Cleaned the data was using pandas in python.
+* Visualized data using matplotlib and seaborn. 
+* Developed decision trees model to identify the employees likely to get promoted. 
+
+
 
 
 
