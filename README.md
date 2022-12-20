@@ -1,4 +1,5 @@
-# PROJECT 1:  VISUALIZATION ON THE GAMES PLAYED AT THE FIFA WORLD CUP 2022
+# PROJECT 1:  VISUALIZATION ON THE GAMES PLAYED AT THE FIFA WORLD CUP 2022. 
+![alt text](https://github.com/trintambogo/portfolio/blob/main/fifaimage.png)
 ## OVERVIEW:
 Fifa world cup has just come to an end. I dared to challenge myself and develop beatiful insights from the games.
 
