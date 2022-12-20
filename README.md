@@ -32,7 +32,7 @@ Ranked 5th position
 ## CHALLENGES.
 We were under pressure to deliver the best since the duration given was quite short.
 
-[LINK TO CODW](https://github.com/trintambogo/portfolio/blob/main/Final%20Insuarance%20Claim%20(1).ipynb)
+[LINK TO CODE](https://github.com/trintambogo/portfolio/blob/main/Final%20Insuarance%20Claim%20(1).ipynb)
 
 
 
