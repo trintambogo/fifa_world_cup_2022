@@ -1,4 +1,4 @@
-theme:Cayman
+theme: Hacker
 # [PROJECT 1:  VISUALIZATION ON THE GAMES PLAYED AT THE FIFA WORLD CUP 2022.](https://github.com/trintambogo/portfolio)
 
 ![](/images/fifaimage.png)
