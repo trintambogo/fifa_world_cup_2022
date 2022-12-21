@@ -41,6 +41,8 @@ We were under pressure to deliver the best since the duration given was quite sh
 
 # [PROJECT 3: HR ANALTICS](https://github.com/trintambogo/portfolio)
 
+![](/images/promotion.jpg)
+
 ## OVERVIEW
 A large MNC company have 9 broad verticals across the organisation. One of the problem they are currently is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
 
