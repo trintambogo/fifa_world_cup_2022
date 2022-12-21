@@ -4,7 +4,7 @@
 ![](/images/fifaimage.png)
 
 ## OVERVIEW:
-Fifa world cup has just come to an end. I dared to challenge myself and develop beatiful insights from the games.
+Fifa world cup has just come to an end. I dared to challenge myself and develop beautiful insights from the games.
 
 ## SOURCE OF DATA
 I got the data from kaggle website.
