@@ -39,6 +39,7 @@ Ranked 5th position out of 54
 We were under pressure to deliver the best since the duration given was quite short.
 
 [LINK TO CODE](https://github.com/trintambogo/portfolio/blob/main/Final%20Insuarance%20Claim%20(1).ipynb)
+[LINK TO DASHBOARD](https://www.example.com)
 
 # [PROJECT 3: HR ANALTICS](https://github.com/trintambogo/portfolio)
 
