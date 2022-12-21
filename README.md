@@ -17,6 +17,8 @@ I am not quite a football fan so it was difficult to understand some of the term
 [LINK TO MY DASHBOARD](https://github.com/trintambogo/fifa_world_cup_2022/blob/main/fifa2.pdf)
 
 # [PROJECT 2: AUTO INSURANCE CLAIM](https://github.com/trintambogo/portfolio)
+![](/images/car.jpg)
+
 
 ## OVERVIEW:
 Autoinland is an insuarance company in west africa. Their goal is to better improve customer experience and increase level of satisfaction when it comes to dealing with claims. To met this goal, they want to anticipate future demands in terms of claim request volume which will also help them manage their resources. To do this, we patnered with fellow data enthusiats developed a predictive model that determines if a customer will submit a vehicle insuarance claim in the next three months. The solution will help streamline financial planning in autoinland. it will also help them better serve their customers by understanding which customers are likely to submit a claim.
